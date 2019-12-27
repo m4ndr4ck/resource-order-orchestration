@@ -27,4 +27,4 @@ Resposta:
 {"id":"5e05850bcc5ed83c81faa3c6","name":"vFirewall","status":"ATIVADO"}
 ```
 
-**O ID deve ser utilizado como paylod do Resource Order.**
+**O ID deve ser utilizado como payload do Resource Order.**
